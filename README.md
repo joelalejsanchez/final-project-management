@@ -22,9 +22,11 @@ La planificación se divide en 6 archivos:
 5. Solicitud de Cambios
    - Proceso de negociación
    - Actualización de Riesgos
-6. Acta de Cierre
-   - Lecciones Aprendidas
+6. Cierre de proyecto
+   - Acta de Cierre
    - Validación del Producto
-   - Evaluación de 4P
+   - Lecciones Aprendidas
+   - Evaluación 4P
    - Value Stream Mapping
+   
    - Plan de Escalado Organizacional

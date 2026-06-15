@@ -2,7 +2,7 @@
 
 ## Acta de Cierre
 
-## Informe de Validación
+## Validación del Producto
 
 ## Lecciones Aprendidas
 
