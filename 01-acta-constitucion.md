@@ -22,13 +22,19 @@ El proyecto INCLUYE:
 - Registro de puestos y comerciantes autorizados.
 - Registro de cobro de tarifas.
 - Control de licencias sanitarias.
+- Respaldos fotográficos
 - Generación de informes mensuales para la dirección de ingresos.
 - Acceso para administrativos y encargados de los controles anteriores.
+- Soporte para plataforma de escritorio
 
 El proyecto NO INCLUYE:
 
+- Registro de sindicatos
+- Cobro de servicios básicos
+- Gestión de traspasos
 - Acceso para comerciantes.
 - Geolocalización.
+- Control de pesos, medidas o precios
 
 El proyecto está destinado a ejecutarse en **6 meses**.
 

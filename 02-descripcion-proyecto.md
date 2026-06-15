@@ -13,11 +13,11 @@ El proyecto aplicará una **Metodología Híbrida** dado que los requerimientos 
 
 ## Matriz de Priorización
 
-| Must                                                                      | Should                                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - Registro de puestos y comerciantes <br/> - Registro de tarifas y cobros | - Seguimiento de licencias sanitarias <br/> - Informes para la dirección de ingresos <br/> - Respaldos fotrográficos                                                                                                      |
-| **Could**                                                                 | **Won't**                                                                                                                                                                                                                 |
-| - Geolocalización <br/> - Control de pesos, medidas o precios             | - Registro de sindicatos <br/> - Acceso directo para comerciantes o encargados de puestos <br/> - No gestionará cobros de servicios básicos <br/> - No gestionará traspasos o herencias, debe realizarse un nuevo proceso |
+| Must                                                                      | Should                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Registro de puestos y comerciantes <br/> - Registro de tarifas y cobros | - Seguimiento de licencias sanitarias <br/> - Informes para la dirección de ingresos <br/> - Respaldos fotrográficos                                                                                                                                                  |
+| **Could**                                                                 | **Won't**                                                                                                                                                                                                                                                             |
+| - Geolocalización                                                         | - Registro de sindicatos <br/> - Acceso directo para comerciantes o encargados de puestos <br/> - No gestionará cobros de servicios básicos <br/> - No gestionará traspasos o herencias, debe realizarse un nuevo proceso <br/> - Control de pesos, medidas o precios |
 
 ## Cronograma
 
@@ -26,11 +26,10 @@ El proyecto a realizarse en 6 meses, se divide en 24 semanas, detallado en la si
 | Semana(s) | Módulo(s)                                          |
 | --------- | -------------------------------------------------- |
 | 1 - 3     | Arquitectura base y acceso al sistema              |
-| 4 - 5     | Registro de puestos y comerciantes                 |
-| 6 - 7     | Seguimiento de licencias sanitarias                |
-| 8 - 9     | Registro de tarifas                                |
-| 10 - 11   | Cobros                                             |
-| 12 - 13   | Control de pesos, medidas y precios                |
+| 4 - 6     | Registro de puestos y comerciantes                 |
+| 7 - 9     | Seguimiento de licencias sanitarias                |
+| 10 - 11   | Registro de tarifas                                |
+| 12 - 13   | Cobros                                             |
 | 14 - 15   | Elaboración de Informes                            |
 | 16 - 19   | Pruebas de calidad y verificación de funcionalidad |
 | 20 - 21   | Capacitación a usuarios del sistema                |
@@ -47,3 +46,5 @@ El proyecto a realizarse en 6 meses, se divide en 24 semanas, detallado en la si
 | 5   | Cambio en las normativas asociadas al proyecto              | Medio        | Medio   | Identificar las características estrechamente relacionadas con normativas para aislarlas de elementos genéricos y reducir el impacto                                                                                     |
 
 ## Plan de Recursos
+
+- 3 desarrolladores (Backend/BBDD, Escritorio, QA/Analista)
