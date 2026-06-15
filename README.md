@@ -3,17 +3,17 @@
 La planificación se divide en 6 archivos:
 
 1. Acta de Constitución: Acuerdo y descripción inicial del proyecto.
-   - Resumen del proyecto (Proyecto, Cliente, Objetivo, Presupuesto, Entregable)
+   - Resumen del proyecto (Proyecto, Cliente, Objetivo, Presupuesto, Duración, Entregable)
    - Objetivo
    - Alcance
    - Actores Involucrados e interesados
 2. Descripción del Proyecto
    - Metodología
    - Requerimientos
-   - Plan de Recursos
-   - Análisis de riesgos
    - Matriz de priorización
    - Cronograma
+   - Análisis de riesgos
+   - Plan de Recursos
 3. Documento de Inception
 4. Informe de Avance
    - Avances
