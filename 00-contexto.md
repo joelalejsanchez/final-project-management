@@ -13,16 +13,24 @@ El jefe de proyecto debe presentar un informe de estado semanal a la Dirección 
 
 ## Presentación
 
-- Acta de Constitución (ej. Al finalizar el presente documento)
-- Documento de Metodología (Tradicional o Ágil)
+<!-- Completo -->
+
+x Acta de Constitución (ej. Al finalizar el presente documento)
+x Documento de Metodología (Tradicional o Ágil)
+x Matriz de Priorización
+x Cronograma
+x Presupuesto (70000bs)
+x Registro de Riesgos
+
+<!-- Parcial, Duda -->
+
+/ Especificación de Requerimientos
+
+<!-- Faltante -->
+
 - Solicitud de Proyecto
-- Especificación de Requerimientos
 - Documento de Inception
-- Matriz de Priorización
-- Cronograma
-- Presupuesto (70000bs)
 - Plan de Recursos (Como se dividirían)
-- Registro de Riesgos
 - Informes de Avance
 - Tablero de Seguimiento KPI
 - Registro de Incidencias
