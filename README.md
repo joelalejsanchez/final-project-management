@@ -7,12 +7,11 @@ La planificación se divide en 6 archivos:
    - Objetivo
    - Alcance
    - Actores Involucrados e interesados
-   - Análisis de riesgos
 2. Descripción del Proyecto
    - Metodología
    - Requerimientos
    - Plan de Recursos
-   - Riesgos
+   - Análisis de riesgos
    - Matriz de priorización
 3. Documento de Inception
 4. Informe de Avance
