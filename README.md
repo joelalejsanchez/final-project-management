@@ -13,6 +13,7 @@ La planificación se divide en 6 archivos:
    - Plan de Recursos
    - Análisis de riesgos
    - Matriz de priorización
+   - Cronograma
 3. Documento de Inception
 4. Informe de Avance
    - Avances
