@@ -19,8 +19,8 @@ La planificación se divide en 6 archivos:
    - Avances
    - Tablero de seguimiento
    - Registro de incidencias
-5. Cambios
-   - Solicitud de Cambios
+5. Solicitud de Cambios
+   - Proceso de negociación
    - Actualización de Riesgos
 6. Acta de Cierre
    - Lecciones Aprendidas

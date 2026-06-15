@@ -21,6 +21,8 @@ x Matriz de Priorización
 x Cronograma
 x Presupuesto (70000bs)
 x Registro de Riesgos
+x Solicitud de Cambios
+x Registro de Riesgos Actualizado
 
 <!-- Parcial, Duda -->
 
@@ -36,8 +38,6 @@ x Registro de Riesgos
 - Solicitud de Proyecto
 - Documento de Inception
 - Plan de Mejora Continua
-- Solicitud de Cambios
-- Registro de Riesgos Actualizado
 - Acta de Cierre
 - Lecciones Aprendidas
 - Informe de Validación del Producto
