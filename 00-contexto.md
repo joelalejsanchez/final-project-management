@@ -25,15 +25,16 @@ x Registro de Riesgos
 <!-- Parcial, Duda -->
 
 / Especificación de Requerimientos
+/ Plan de Recursos (Como se dividirían)
+
+/ Informes de Avance
+/ Tablero de Seguimiento KPI
+/ Registro de Incidencias
 
 <!-- Faltante -->
 
 - Solicitud de Proyecto
 - Documento de Inception
-- Plan de Recursos (Como se dividirían)
-- Informes de Avance
-- Tablero de Seguimiento KPI
-- Registro de Incidencias
 - Plan de Mejora Continua
 - Solicitud de Cambios
 - Registro de Riesgos Actualizado
