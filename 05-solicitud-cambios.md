@@ -1,6 +1,6 @@
 # Solicitud de Cambios - Geolocalización de Puestos
 
-En la semana 10 iniciado el proyecto, la Alcaldía hizo la solicitud de un módulo de geolocalización de puestos, se procedió de la siguiente manera:
+En la semana 10 iniciado el proyecto, la Alcaldía hizo la solicitud de un módulo de **geolocalización** de puestos, se procedió de la siguiente manera:
 
 ## Proceso de Evaluación
 

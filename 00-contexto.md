@@ -24,18 +24,18 @@ x Registro de Riesgos
 x Solicitud de Cambios
 x Registro de Riesgos Actualizado
 
-<!-- Parcial, Duda -->
+<!-- Parcial-->
 
+/ Solicitud de Proyecto
 / Especificación de Requerimientos
 / Plan de Recursos (Como se dividirían)
-
 / Informes de Avance
-/ Tablero de Seguimiento KPI
 / Registro de Incidencias
+
+/ Tablero de Seguimiento KPI
 
 <!-- Faltante -->
 
-- Solicitud de Proyecto
 - Documento de Inception
 - Plan de Mejora Continua
 - Acta de Cierre
@@ -44,3 +44,13 @@ x Registro de Riesgos Actualizado
 - Evaluación de las 4P
 - Value Stream Mapping
 - Plan de Escalado Organizacional
+
+· Plan de Mejora Continua
+· Solicitud de Cambios
+· Registro de Riesgos Actualizado
+· Acta de Cierre
+· Lecciones Aprendidas
+· Informe de Validación del Producto
+· Evaluación de las 4P
+· Value Stream Mapping
+· Plan de Escalado Organizacion
