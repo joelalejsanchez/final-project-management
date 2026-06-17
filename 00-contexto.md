@@ -45,12 +45,5 @@ x Registro de Riesgos Actualizado
 - Value Stream Mapping
 - Plan de Escalado Organizacional
 
-· Plan de Mejora Continua
-· Solicitud de Cambios
-· Registro de Riesgos Actualizado
-· Acta de Cierre
-· Lecciones Aprendidas
-· Informe de Validación del Producto
-· Evaluación de las 4P
 · Value Stream Mapping
 · Plan de Escalado Organizacion
