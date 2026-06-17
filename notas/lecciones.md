@@ -1,2 +1,0 @@
-- que no se debio aceptar nuevos requerimientos si existia retraso
-- se ampliara el costo, pero nunca vino un respaldo
