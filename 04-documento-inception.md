@@ -4,25 +4,25 @@ La Dirección de Ingresos del Gobierno Autónomo Municipal de Sucre actualmente 
 
 ## Elevator Pitch
 
-Para: La Dirección de Ingresos y el personal administrativo de la Alcaldía de Sucre.
+**Para:** La Dirección de Ingresos y el personal administrativo de la Alcaldía de Sucre.
 
-Que tienen el problema de: Falta de centralización, demoras en reportes mensuales y vulnerabilidad en el control de puestos y cobros.
+**Que tienen el problema de:** Falta de centralización, demoras en reportes mensuales y vulnerabilidad en el control de puestos y cobros.
 
-El proyecto es: Una plataforma de software de escritorio para la administración interna de mercados.
+**El proyecto es:** Una plataforma de software de escritorio para la administración interna de mercados.
 
-Que permite: Registrar puestos, controlar la vigencia de licencias sanitarias con respaldo fotográfico, registrar cobros de tarifas y generar reportes mensuales automatizados.
+**Que permite:** Registrar puestos, controlar la vigencia de licencias sanitarias con respaldo fotográfico, registrar cobros de tarifas y generar reportes mensuales automatizados.
 
-A diferencia de: Las planillas físicas actuales o sistemas genéricos web dependientes de internet continuo.
+**A diferencia de:** Las planillas físicas actuales o sistemas genéricos web dependientes de internet continuo.
 
-Nuestro producto logra: Centralizar el control operativo en una interfaz ágil, profesional y con mecanismos de contingencia ante caídas de red.
+**Nuestro producto logra:** Centralizar el control operativo en una interfaz ágil, profesional y con mecanismos de contingencia ante caídas de red.
 
 ## Objetivos del Proyecto
 
-Digitalizar e integrar: Centralizar el control de puestos y comerciantes autorizados en una única base de datos sincronizada.
+**Digitalizar e integrar:** Centralizar el control de puestos y comerciantes autorizados en una única base de datos sincronizada.
 
-Optimizar la Fiscalización: Proveer herramientas visuales para verificar licencias sanitarias vigentes y almacenar evidencias fotográficas.
+**Optimizar la Fiscalización:** Proveer herramientas visuales para verificar licencias sanitarias vigentes y almacenar evidencias fotográficas.
 
-Automatizar la Reportería: Reducir los tiempos de consolidación de datos para la Dirección de Ingresos, generando informes mensuales estructurados en pocos clics.
+**Automatizar la Reportería:** Reducir los tiempos de consolidación de datos para la Dirección de Ingresos, generando informes mensuales estructurados en pocos clics.
 
 ## Definición de Alcance
 
