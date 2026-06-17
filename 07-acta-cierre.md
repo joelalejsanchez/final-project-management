@@ -18,7 +18,7 @@ A continuación, se detalla el balance final del proyecto, estructurado bajo una
 | Registro de tarifas                         | CUMPLIDO         | Retrasado en semana 12 por capacitación; completado con éxito. |
 | Módulo de Cobros e historial                | CUMPLIDO         | Formulario y flujo financiero habilitado.                      |
 | Elaboración de Informes (Dir. Ingresos)     | CUMPLIDO         | Motor de reportes mensuales automatizado.                      |
-| Pruebas de calidad y resiliencia de red     | CUMPLIDO         | Verificación de tolerancia a fallos ejecutada.                 |
+| Pruebas de calidad                          | CUMPLIDO         | Verificación de tolerancia a fallos ejecutada.                 |
 | Capacitación a usuarios administrativos     | CUMPLIDO         | Personal del G.A.M.S. capacitado para el uso.                  |
 | Despliegue a producción                     | CUMPLIDO         | Sistema instalado en los equipos de escritorio designados.     |
 
