@@ -55,6 +55,7 @@ Los recursos necesarios son:
 - 1 encargado de QA y analísis, encargado de evaluar el funcionamiento correcto del sistema y que esté apegado a las reglas de negocio impuestas.
 - Servidor para desarrollo y pruebas
 - 3 Computadoras para desarrollo
+- Software de Gestión y Planificación, para hacer registro de las tareas pendientes y el avance semanal, permitiendo asi documentar el trabajo mienstras se va completando
 
 ## Presupuesto
 
