@@ -14,6 +14,7 @@ La planificación se divide en 6 archivos:
    - Cronograma
    - Análisis de riesgos
    - Plan de Recursos
+   - Presupuesto
 3. Documento de Inception
 4. Informe de Avance
    - Avances
@@ -28,5 +29,4 @@ La planificación se divide en 6 archivos:
    - Lecciones Aprendidas
    - Evaluación 4P
    - Value Stream Mapping
-   
    - Plan de Escalado Organizacional
