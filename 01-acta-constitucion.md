@@ -9,7 +9,7 @@ Este documento registra todos los elementos necesarios para dar conformidad al i
 | Objetivo             | Digitalizar la administración de los mercados Campesino, Central y Entre Ríos. |
 | Presupuesto          | 70000 Bs.                                                                      |
 | Duración             | 6 meses                                                                        |
-| Entregable principal | MVP funcional                                                                  |
+| Entregable principal | Programa de Escritorio y Aplicación de servidor                                |
 
 ## Objetivo
 
