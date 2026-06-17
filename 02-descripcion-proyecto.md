@@ -6,10 +6,10 @@ El proyecto aplicará una **Metodología Híbrida** dado que los requerimientos 
 
 ## Requerimientos
 
-- Registro de puestos y comerciantes
-- Registro de tarifas y cobros
-- Seguimiento para licencias sanitarias
-- Informes mensuales de ingresos
+- Registro de puestos y comerciantes: Es necesario realizar el registro de información personal de los comerciantes o puestos y con ello gestionar el permiso y fechas de vencimiento para realizar el control posterior.
+- Registro de tarifas y cobros: Es necesario llevar el seguimiento de las tarifas de funcionamiento y mantenimiento, también con ello hacer un seguimiento correspondiente de los pagos y así poder revocar el permiso si no se cumple con los pagos.
+- Seguimiento para licencias sanitarias: Para mantener la calidad sanitaria de los espacios de venta y puestos es necesario registrar licencias sanitarias y poder actualizarla ante posteriores revisiones.
+- Informes mensuales de ingresos: Es necesario la generación de reportes para la dirección de ingresos para que tengan constancia del cobro de tarifas en los mercados municipales.
 
 ## Matriz de Priorización
 
@@ -47,4 +47,21 @@ El proyecto a realizarse en 6 meses, se divide en 24 semanas, detallado en la si
 
 ## Plan de Recursos
 
-- 3 desarrolladores (Backend/BBDD, Escritorio, QA/Analista)
+El equipo de desarrollo debe contar con computadoras para el trabajo y deben usar herramientas de software libre y evitar software de licencia o restrictivo como software propietario.
+Los recursos necesarios son:
+
+- 1 desarrollador backend, encargado de la aplicación de servidor y administración de base de datos.
+- 1 desarrollador de escritorio, encargado de desarrollar la aplicación para computadoras.
+- 1 encargado de QA y analísis, encargado de evaluar el funcionamiento correcto del sistema y que esté apegado a las reglas de negocio impuestas.
+- Servidor para desarrollo y pruebas
+- 3 Computadoras para desarrollo
+
+## Presupuesto
+
+|                                   | Total (Bs.) | Comentarios                                      |
+| --------------------------------- | ----------- | ------------------------------------------------ |
+| Dev. Backend                      | 24000.00    | Tiempo completo                                  |
+| Dev. Escritorio                   | 24000.00    | Tiempo completo                                  |
+| Encargado QA                      | 12000.00    | Tiempo parcial                                   |
+| Servidor (Cloud)                  | 600.00      | VPS para desarrollo                              |
+| Software de Gestión/Planificación | 1500.00     | Usado para documentar el avance y requerimientos |
