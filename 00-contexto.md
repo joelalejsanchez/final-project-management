@@ -13,37 +13,25 @@ El jefe de proyecto debe presentar un informe de estado semanal a la Dirección 
 
 ## Presentación
 
-<!-- Completo -->
-
-x Acta de Constitución (ej. Al finalizar el presente documento)
-x Documento de Metodología (Tradicional o Ágil)
-x Matriz de Priorización
-x Cronograma
-x Presupuesto (70000bs)
-x Registro de Riesgos
-x Solicitud de Cambios
-x Registro de Riesgos Actualizado
-
-<!-- Parcial-->
-
-/ Solicitud de Proyecto
-/ Especificación de Requerimientos
-/ Plan de Recursos (Como se dividirían)
-/ Informes de Avance
-/ Registro de Incidencias
-
-/ Tablero de Seguimiento KPI
-
-<!-- Faltante -->
-
-- Documento de Inception
-- Plan de Mejora Continua
-- Acta de Cierre
-- Lecciones Aprendidas
-- Informe de Validación del Producto
-- Evaluación de las 4P
-- Value Stream Mapping
-- Plan de Escalado Organizacional
-
+· Acta de Constitución (ej. Al finalizar el presente documento)
+· Documento de Metodología (Tradicional o Ágil)
+· Solicitud de Proyecto
+· Especificación de Requerimientos
+· Documento de Inception
+· Matriz de Priorización
+· Cronograma
+· Presupuesto (70000bs)
+· Plan de Recursos (Como se dividirían)
+· Registro de Riesgos
+· Informes de Avance
+· Tablero de Seguimiento KPI
+· Registro de Incidencias
+· Plan de Mejora Continua
+· Solicitud de Cambios
+· Registro de Riesgos Actualizado
+· Acta de Cierre
+· Lecciones Aprendidas
+· Informe de Validación del Producto
+· Evaluación de las 4P
 · Value Stream Mapping
-· Plan de Escalado Organizacion
+· Plan de Escalado Organizacional
