@@ -14,27 +14,27 @@ Los puntos especificados en el trabajo se organizan dentro de 8 documentos.
 
 Los puntos se distribuyen exactamente como en la siguiente tabla:
 
-| Punto                                                         | N Documento |
-| ------------------------------------------------------------- | ----------- |
-| Acta de Constitución (ej. Al finalizar el presente documento) | 1           |
-| Documento de Metodología (Tradicional o Ágil)                 | 1           |
-| Solicitud de Proyecto                                         | 1           |
-| Especificación de Requerimientos                              | 1           |
-| Documento de Inception                                        | 1           |
-| Matriz de Priorización                                        | 1           |
-| Cronograma                                                    | 1           |
-| Presupuesto (70000bs)                                         | 1           |
-| Plan de Recursos (Como se dividirían)                         | 1           |
-| Registro de Riesgos                                           | 1           |
-| Informes de Avance                                            | 1           |
-| Tablero de Seguimiento KPI                                    | 1           |
-| Registro de Incidencias                                       | 1           |
-| Plan de Mejora Continua                                       | 1           |
-| Solicitud de Cambios                                          | 1           |
-| Registro de Riesgos Actualizado                               | 1           |
-| Acta de Cierre                                                | 1           |
-| Lecciones Aprendidas                                          | 1           |
-| Informe de Validación del Producto                            | 1           |
-| Evaluación de las 4P                                          | 1           |
-| Value Stream Mapping                                          | 1           |
-| Plan de Escalado Organizacional                               | 1           |
+| Punto                                                         | Documento              |
+| ------------------------------------------------------------- | ---------------------- |
+| Acta de Constitución (ej. Al finalizar el presente documento) | 1-acta-constitucion    |
+| Documento de Metodología (Tradicional o Ágil)                 | 2-descripcion-proyecto |
+| Especificación de Requerimientos                              | 2-descripcion-proyecto |
+| Matriz de Priorización                                        | 2-descripcion-proyecto |
+| Cronograma                                                    | 2-descripcion-proyecto |
+| Registro de Riesgos                                           | 2-descripcion-proyecto |
+| Presupuesto (70000bs)                                         | 2-descripcion-proyecto |
+| Plan de Recursos (Como se dividirían)                         | 2-descripcion-proyecto |
+| Solicitud de Proyecto                                         | 3-solicitud-proyecto   |
+| Documento de Inception                                        | 4-documento-inception  |
+| Informes de Avance                                            | 5-informe-avance       |
+| Tablero de Seguimiento KPI                                    | 5-informe-avance       |
+| Registro de Incidencias                                       | 5-informe-avance       |
+| Plan de Mejora Continua                                       | 6-plan-mejora-continua |
+| Solicitud de Cambios                                          | 7-solicitud-cambios    |
+| Registro de Riesgos Actualizado                               | 7-solicitud-cambios    |
+| Acta de Cierre                                                | 8-acta-cierre          |
+| Lecciones Aprendidas                                          | 9-cierre-proyecto      |
+| Informe de Validación del Producto                            | 9-cierre-proyecto      |
+| Evaluación de las 4P                                          | 9-cierre-proyecto      |
+| Value Stream Mapping                                          | 9-cierre-proyecto      |
+| Plan de Escalado Organizacional                               | 9-cierre-proyecto      |
