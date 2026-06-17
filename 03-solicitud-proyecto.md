@@ -1,6 +1,6 @@
 Sucre, 16 de Junio de 2026
 
-Para: Encargado de - Gobierno Autónomo Municipal de Sucre
+Para: Director de Ingresos - Gobierno Autónomo Municipal de Sucre
 
 Presente.-
 
